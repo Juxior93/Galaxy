@@ -1,0 +1,10 @@
+<div class="container">
+	<div class="row">
+		<div class="col-sm-12">
+			<center><h1>Halo</h1></center>
+			<center><img src="<?php echo base_url(); ?>/public/IMG/Bulbo.jpg" width="450" height="300"></center>
+			<p class="text-justify">El halo es una estructura esferoidal que envuelve la galaxia. En el halo la concentración de estrellas es muy baja y apenas tiene nubes de gas, por lo que carece de regiones con formación estelar; es aquí donde se encuentra la mayor parte de los cúmulos globulares. Estas formaciones antiguas son reliquias de la formación galáctica. Estas agrupaciones de estrellas se debieron formar cuando la galaxia era aún una gran nube de gas que colapsaba y se iba aplanando cada vez más. Otra característica del halo es la presencia de gran cantidad de materia oscura. Su existencia se dedujo a partir de anomalías en la rotación galáctica. Los objetos contenidos en el halo rotan con una componente perpendicular al plano muy fuerte, cruzando en muchos casos el disco galáctico. De hecho, es posible encontrar estrellas u otros cuerpos del halo en el disco. Su procedencia se delata cuando se analiza su velocidad y trayectoria, así como su metalicidad. Y es que los cuerpos del halo presentan una componente perpendicular al plano muy acusada, además del hecho de que se trata de cuerpos que se formaron antes que los del disco. Sus órbitas los llevan, pues, a cruzar periódicamente el disco. También es muy probable que una estrella de población II (pobre en metales) pertenezca al halo, pues éstas son más antiguas que las de población I (ricas en metales) y el halo, como ya se ha dicho, es una estructura antigua.</p>
+			<p class="text-justify">La masa en estrellas de este componente es muy baja, de alrededor de mil millones de masas solares; una gran parte de la masa del halo galáctico está en la forma de materia oscura.</p>
+		</div>	
+	</div>
+</div>
